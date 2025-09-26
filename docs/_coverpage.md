@@ -2,11 +2,7 @@
 
 # PyUIBuilder Docs
 
-> A Free Python GUI builder tool, like Webflow, but for python GUIs
-
+> A Powerful Python GUI builder tool, Build your Python GUis like Canva
 - Simple and powerful
 - Do more with plugins
 - Works for multiple frameworks
-
-[GitHub](https://github.com/PaulleDemon/PyUIBuilder)
-[Get Started](#pyuibuilder-documentation)
