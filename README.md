@@ -46,10 +46,11 @@ https://github.com/user-attachments/assets/57addb9c-d018-4be9-894d-c7cbce5ff55f
 
 **Roadmap:** You can check whats upcoming on [Roadmap](https://scrawny-droplet-e97.notion.site/PyUIBuilder-Roadmap-21e45dc1685b8092a47ed4c9f333233c)
 
+**What's new:** You can check what's new [here](https://scrawny-droplet-e97.notion.site/Pyuibuilder-What-s-new-25845dc1685b80a2a802e6f3943085f1)
+
 **Funding development:**
 <br>
-I am Paul, a solo-developer, which means I work on this project all by myself from design to coding to maintaing the project. I have been using a 7+ year old broken linux laptop, which has been a problem for me since I started this project. 
-I am trying to get a new laptop so, I can work without much issues. 
+I am Paul, a solo-developer, which means I work on this project all by myself from design to coding to maintaing the project. 
 <br/>
 <br/>
 so, if you'd like to support the development, you can [purchase a license](https://about.pyuibuilder.com/#pricing) with a one time payment, for a limited time, which will give you instant access to all the premium features
